@@ -1,0 +1,7 @@
+{
+  "search_urls": [
+    "https://www.stepstone.de/jobs/ai?searchOrigin=Homepage_top-search"
+  ],
+  "output_file": "output.json",
+  "max_items": 100
+}
