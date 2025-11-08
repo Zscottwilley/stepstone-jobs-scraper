@@ -1,0 +1,2 @@
+# List of job search URLs to scrape
+# Add your StepStone search URLs here
